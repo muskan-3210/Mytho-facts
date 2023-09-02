@@ -1,0 +1,9 @@
+body{ background-image:linear-gradient(orangered,yellow,red); background-repeat:no-repeat; background-attachment:fixed; background-position:center;
+background-size:cover;}h1{ text-align:center; color:white; font-family:times new roman; margin:10pt;}h2{	color:white;padding:10pt;}li{font-family:calibri;
+font-size:17pt;margin:10pt;}p{font-family:calibri;font-size:17pt;margin:10pt;}.a img{float:right;border:7px solid white;display:inline-block;margin:25px 15px;}
+.b img{float:left;border:7px solid white; display:inline-block;margin:25px 36px;}.b{padding:10px;}.c img{float:right;border:7px solid white;display:inline-block;
+margin:25px 15px;}.d img{float:left;border:7px solid white; display:inline-block;margin:25px 36px;}.e img{float:right;border:7px solid white;display:inline-block;
+margin:25px 15px;}.f img{float:left;border:7px solid white; display:inline-block;margin:25px 35px;}.g img{float:right;border:7px solid white;display:inline-block;
+margin:25px 15px;}.h img{float:left;border:7px solid white;display:inline-block;margin:25.5px 35px;}
+
+.
